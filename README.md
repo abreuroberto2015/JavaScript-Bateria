@@ -1,1 +1,1 @@
-# Bateria : Criado por Roberto Abreu durante a aula da B7Web
+Bateria criada durante o curso de JavaScript da B7Web
